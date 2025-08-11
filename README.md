@@ -13,9 +13,6 @@
 ### **SENA** _(2025 - Actualidad)_
 - Python, Javascrip, html, css, php.
 
-### **Empresa ABC** _(2023 - 2024)_
--  Puesto ocupado y descripción breve.
-
 ## 🎓 Educación
 ### **Colegio Brasilia Usme** _(2019 - 2024)_
 - Bachiller.
