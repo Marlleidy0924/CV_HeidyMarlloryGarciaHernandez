@@ -1,29 +1,31 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Heidy Marllory Garcia Hernandez
+**Profesión:** _Analista y Desarrolladora de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** 
+- **Email:** [marlleidy0924@gmail.com](marlleidy0924@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Python, Javascrip, html, css, php.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa ABC** _(2023 - 2024)_
+-  Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
+### **Colegio Brasilia Usme** _(2019 - 2024)_
+- Bachiller.
+- Tecnico en Programacion de Software.
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz analisis y desarrollo de software.
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Adaptabilidad**
+- **Creatividad**
+- **Resolucion de problemas**
 
 ---
 
