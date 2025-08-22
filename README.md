@@ -11,14 +11,17 @@
 
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
-- Python, Javascrip, html, css, php.
-
+- Python
+- Javascrip
+- html
+- css
+- php
 ## 🎓 Educación
+### **SENA** _(2025 - Actualidad)_
+- Aprendiz analisis y desarrollo de software.
 ### **Colegio Brasilia Usme** _(2019 - 2024)_
 - Bachiller.
 - Tecnico en Programacion de Software.
-### **SENA** _(2025 - Actualidad)_
-- Aprendiz analisis y desarrollo de software.
 ## 💡 Habilidades
 - **Adaptabilidad**
 - **Creatividad**
